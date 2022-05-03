@@ -26,6 +26,3 @@ UI
 ---
 ![image](https://user-images.githubusercontent.com/78712154/166344763-39ed5b52-fdca-41a3-b3a6-960c2c9c01ed.png)
 
-Use Cases
----------
-![image](https://user-images.githubusercontent.com/78712154/166344799-f10373be-fc57-405a-a542-79991b94dc56.png)
